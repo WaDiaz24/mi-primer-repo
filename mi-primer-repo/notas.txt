@@ -1,0 +1,8 @@
+Este archivo contiene mis primeras notas con Git.
+
+Este texto fue agregado desde una nueva rama.
+
+Zers agrego esto desde una nueva rama. 
+Ensayo y error.
+
+Correccion con tutor
