@@ -1,1 +1,3 @@
 Este archivo contiene mis primeras notas con Git.
+
+Este texto fue agregado desde una nueva rama.
